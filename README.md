@@ -1,52 +1,51 @@
-**ANY OTHER DECK NOT MENTIONED ON THIS PAGE IS NOT AFFILIATED WITH ME, INCLUDING ANY AI OR PAID MODIFICATIONS.**
+**BU SAYFADA BELİRTİLMEYEN DİĞER DESTELER, AI VEYA ÜCRETLİ DEĞİŞİKLİKLER DAHİL, BENİMLE HİÇBİR BAĞLANTISI YOKTUR.**
 
-# Kaishi 1.5k
+# Kaishi 1.5k - Türkçe
 
-Welcome to the public repository for **Kaishi 1.5k**, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the front of the deck looks like:
+Yeni başlayanlara temel Japonca kelimeleri öğretmek için tasarlanmış modern bir Anki kart destesi olan **Kaishi 1.5k**'nin genel erişim deposuna hoş geldiniz. Kaishi 1.5k oldukça modüler bir yapıya sahiptir ve bu sayfa, kart destesini istediğiniz gibi değiştirmek için kullanabileceğiniz çeşitli seçenekleri açıklamaya ayrılmıştır. Kart destesinin ön yüzü şöyle görünür:
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-front.png" alt="Front of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
-
-As you can see, both the word and the sentences are there but the word is highlighted in the sentence, making it easy to immediately isolate the important information. Once the word is known well, reviewing is faster because the word appears first. Here is the backside of the default deck:
+Gördüğünüz gibi, hem kelime hem de cümleler var, ancak kelime cümlede vurgulanmış, böylece önemli bilgileri hemen ayırt etmek kolaylaşıyor. Kelime iyi öğrenildikten sonra, kelime ilk sırada göründüğü için tekrar daha hızlı oluyor. İşte varsayılan destenin arka yüzü:
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Back of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
 
-Contrary to most other Core-type decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
+Gördüğünüz gibi, hem kelime hem de cümleler var, ancak kelime cümlede vurgulanmış, böylece önemli bilgileri hemen ayırt etmek kolaylaşıyor. Kelimeye iyice aşina olunduğunda, kelime ilk başta göründüğü için tekrar daha hızlı oluyor. İşte varsayılan destenin arka yüzü:
 
-[If you are new to Japanese or immersion, please read the guide first.](https://donkuri.github.io/learn-japanese/guide/)
+[Japonca veya yoğunlaştırılmış öğrenme konusunda yeniyseniz, lütfen önce kılavuzu okuyun.](https://donkuri.github.io/learn-japanese/guide/)
 
-### Table of contents
+### İçindekiler
 
-- [Where do I get the deck?](#where-do-i-get-the-deck)
-- [How do I use this deck?](#how-do-i-use-this-deck)
-- [Other related decks](#other-related-decks)
-- [What options are available for the deck?](#what-options-are-available-for-the-deck)
-- [I don't like the images!](#i-dont-like-the-images)
-- [The audio for this word is wrong!](#the-audio-for-this-word-is-wrong)
-- [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
-- [The genesis of the deck](#the-genesis-of-the-deck)
-- [Translation of the deck](#translation-of-the-deck)
-- [What do I do after this deck?](#what-do-i-do-after-this-deck)
-- [Credits](#credits)
+- [Desteyi nereden edinebilirim?](#where-do-i-get-the-deck)
+- [Bu desteyi nasıl kullanırım?](#how-do-i-use-this-deck)
+- [Diğer ilgili desteler](#other-related-decks)
+- [Deste için hangi seçenekler mevcuttur?](#what-options-are-available-for-the-deck)
+- [Görüntüleri beğenmedim!](#i-dont-like-the-images)
+- [Bu kelimenin seslendirmesi hatalı!](#the-audio-for-this-word-is-wrong)
+- [Kaishi'yi başka bir deste üzerine nasıl içe aktarılır](#how-to-import-kaishi-on-top-of-another-deck)
+- [Destenin doğuşu](#the-genesis-of-the-deck)
+- [Deste çevirisi](#translation-of-the-deck)
+- [Bu deste bittikten sonra ne yapacağım?](#what-do-i-do-after-this-deck)
+- [Teşekkürler](#credits)
 
-## Where do I get the deck?
+## Desteyi nereden edinebilirim?
 
-You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
+Kart destesini, bu GitHub'ın [sürümler] (https://github.com/donkuri/Kaishi/releases/) sayfasından veya [AnkiWeb] (https://ankiweb.net/shared/info/1196762551) adresinden indirebilirsiniz. Kart destesinin inceleme aşamasında olmaması gerekir. **Kart destesi Anki 2.1.50+ sürümlerinde desteklenmektedir.**
 
-## How do I use this deck?
+## Bu desteyi nasıl kullanırım?]
 
-For an explanation on how Kaishi fits in with learning Japanese more generally, see the [guide](https://donkuri.github.io/learn-japanese/guide/).
+Kaishi'nin genel olarak Japonca öğrenmeye nasıl uyum sağladığına dair bir açıklama için [kılavuza](https://donkuri.github.io/learn-japanese/guide/) bakın.
 
-## Other related decks
+## Diğer ilgili desteler
 
-ねむい made a radicals deck based on Kaishi 1.5k, linking every kanji radical found in it with the first word in Kaishi that features this radical. It also covers a few more radicals that aren't in Kaishi proper. You can **use this deck in parallel with Kaishi if you struggle with kanji**, because it introduces kanji radicals as you go, helping you break them down more efficiently. You can find the deck [here on AnkiWeb](https://ankiweb.net/shared/info/1722008986). Thank you ねむい!
+ねむい, Kaishi 1.5k'yı temel alarak bir radikal kart destesi hazırladı ve bu destede bulunan her kanji radikalini, Kaishi'de bu radikalin bulunduğu ilk kelimeyle ilişkilendirdi. Ayrıca, Kaishi'de bulunmayan birkaç radikal daha da kapsıyor. **Kanji ile zorlanıyorsanız, bu kart destesini Kaishi ile paralel olarak kullanabilirsiniz**, çünkü kart destesi ilerledikçe kanji radikallerini tanıtarak, bunları daha verimli bir şekilde parçalara ayırmanıza yardımcı olur. Kart destesini [AnkiWeb'de burada](https://ankiweb.net/shared/info/1722008986) bulabilirsiniz. Teşekkürler ねむい!
 
-## What options are available for the deck?
+## Deste için hangi seçenekler mevcuttur?
 
-There are multiple options you can use to change your cards. To modify them, select the Kaishi deck, click `Browse`, select any card from the deck, and click `Cards...` on the top right.
+Kartlarınızı değiştirmek için kullanabileceğiniz birçok seçenek vardır. Kartları değiştirmek için Kaishi destesini seçin,`Gözat`ı tıklayın, desteden herhangi bir kart seçin ve sağ üstteki `Kartlar...`ı tıklayın.
 
-### Pitch Accent
+### Ton Vurgusu
 
-The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is easy. Here is the card options under `Back Template` for the deck (click on the small dot above the `Search` bar.)
+En önemli seçenek, kartlarınıza ton vurgusunu eklemek isteyip istemediğinizdir. Şu anda, ton vurgusunu öğrenmek gerekip gerekmediği konusunda topluluk içinde oldukça hararetli tartışmalar yaşanmaktadır. Biz orta yolcu bir yaklaşım benimsemeye karar verdik: ton vurgusu verileri sizin için hazır, kullanıp kullanmamak size kalmış. Kullanmamaya karar verirseniz, daha sonra istediğiniz zaman etkinleştirebilirsiniz. Ton vurgusunu etkinleştirmek çok kolaydır. İşte deste için `Arka Şablon` altındaki kart seçenekleri (`Arama` çubuğunun üzerindeki küçük noktaya tıklayın).
 
 ```CSS
 <div lang="ja">
@@ -89,7 +88,7 @@ The most important option is whether you would like to include pitch accent on y
 </div>
 ```
 
-To enable pitch accent, you simply need to take out all the `<!--` and `-->` parts which represent comments, like so: 
+Ton vurgusunu etkinleştirmek için, yorumları temsil eden tüm `<!--` ve `-->` kısımlarını şu şekilde çıkarmanız yeterlidir: 
 
 ```CSS
 <div lang="ja">
@@ -124,18 +123,18 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 </div>
 ```
 
-**To see how pitch accent notation works, please see [this issue](https://github.com/donkuri/Kaishi/issues/104#issuecomment-3171889366)**.
+**Ton vurgu notasyonunun nasıl çalıştığını görmek için lütfen [bu konuya](https://github.com/donkuri/Kaishi/issues/104#issuecomment-3171889366) bakın.**
 
-### Minor options
+### Alt seçenekler
 
-There are a couple of minor options you can modify.
+Değiştirebileceğiniz birkaç alt seçenek vardır.
 
 #### Furigana
-If you would like to take out furigana, simply take out the `furigana:` parts of the back template.
+Furigana'yı çıkarmak istiyorsanız, arka şablondaki `furigana:` kısımlarını çıkarmanız yeterlidir.
 
-#### Other card options
+#### Diğer kart seçenekleri
 
-You could entirely change the type of cards you want to see. Here is the `Front Template` of Kaishi 1.5k:
+Görmek istediğiniz kartların türünü tamamen değiştirebilirsiniz. İşte Kaishi 1.5k'nın `Ön Şablonu`:
 
 ```CSS
 <div lang="ja">
@@ -144,11 +143,11 @@ You could entirely change the type of cards you want to see. Here is the `Front 
 </div>
 ```
 
-As you can see, we only have the word and the sentence. If you would like *sentence* cards, simply take out the `{{Word}}` part, or put `Sentence` inside instead and take out the rest. If you would like *word* cards, simply take out the `<div style='font-size: 20px;'>{{Sentence}}</div>` part. If instead you would like *audio* cards, take out everything and add `{{Word Audio}}`, `{{Sentence Audio}}` or both if you would like both.
+Gördüğünüz gibi, sadece kelime ve cümle var. *Cümle* kartları istiyorsanız, `{{Word}}` kısmını çıkarın veya yerine `Sentence` yazıp geri kalanını çıkarın. *Kelime* kartları istiyorsanız, `<div style='font-size: 20px;'>{{Sentence}}</div>` kısmını çıkarmanız yeterlidir. Bunun yerine *ses* kartları istiyorsanız, her şeyi çıkarın ve `{{Word Audio}}`, `{{Sentence Audio}}` veya her ikisini de istiyorsanız ikisini birden ekleyin. 
 
-#### Changing the fonts, font size or other styling options
+#### Yazı tiplerini, yazı tipi boyutunu veya diğer stil seçeneklerini değiştirme
 
-Here is the `Styling` template of Kaishi 1.5k:
+İşte Kaishi 1.5k'nin `Styling` şablonu:
 
 ```CSS
 .card {
@@ -170,33 +169,33 @@ max-width: 50vw;
 b{color: #5586cd}
 ```
 
-You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. By default, Kaishi 1.5k colors **bold** words. The option to change this is `b{color: }` as you can see above. Simply put a hexcode or a color name like `red` to get that color instead. If you would like no color, simply take out the whole `b{color: }` part.
+Çeşitli stil seçeneklerini [burada](https://docs.ankiweb.net/templates/styling.html) bulabilirsiniz. Gördüğünüz gibi, Kaishi 1.5k stil sekmesinde doğrudan çok az seçenek kullanır. Farklı yazı tipleri elde etmek için `font-family` seçeneğini, yazı tipi boyutunu değiştirmek için `font-size` seçeneğini ve metnin hizalamasını değiştirmek için `text-align` seçeneğini değiştirebilirsiniz, örneğin metnin sola hizalanmasını istiyorsanız. Varsayılan olarak, Kaishi 1.5k kelimeleri **kalın** olarak renklendirir. Bunu değiştirmek için yukarıda gördüğünüz gibi `b{color: }` seçeneğini kullanabilirsiniz. O rengi elde etmek için hex kodu veya `red` gibi bir renk adı girmeniz yeterlidir. Renk istemiyorsanız, `b{color: }` kısmını tamamen çıkarmanız yeterlidir.
 
-## The audio for this word is wrong!
+## Bu kelimenin seslendirmesi hatalı!
 
-Certain words such as 次 (つぎ) and あげる have been reported as having "wrong" audio. This is because beginners often do not hear (and are not aware) of Japanese nasalization, where /g/ sounds can sound closer to /n/. Please see [this video](https://www.youtube.com/watch?v=xpzpbuFHVVU) for an explanation of how this works. **Unfortunately, better audio in the form of non-nasalized versions of these words is often not directly available.**
+次 (つぎ) ve あげる gibi bazı kelimelerin seslerinin “yanlış” olduğu bildirilmiştir. Bunun nedeni, yeni başlayanların genellikle Japonca nazalizasyonu duymamaları (ve farkında olmamalarıdır); bu nazalizasyonda /g/ sesleri /n/ sesine daha yakın çıkabilir. Bunun nasıl çalıştığına dair açıklama için lütfen [bu videoyu](https://www.youtube.com/watch?v=xpzpbuFHVVU) izleyin. **Ne yazık ki, bu kelimelerin nazalize edilmemiş versiyonları şeklinde daha iyi sesler genellikle doğrudan mevcut değildir.**
 
-## How to import Kaishi on top of another deck
+## Kaishi'yi başka bir deste üzerine nasıl içe aktarılır
 
-If you already started Core2k or Tango N4-N5 (or some other similar deck) and you would like to switch to Kaishi 1.5k, you can follow these steps written by [Kuuube](https://github.com/Kuuuube).
+Core2k veya Tango N4-N5 (veya benzeri bir deste) kullanmaya başladıysanız ve Kaishi 1.5k'ya geçmek istiyorsanız, [Kuuube](https://github.com/Kuuuube) tarafından yazılan bu adımları takip edebilirsiniz.
 
-1. Import Kaishi normally with the .apkg file.
-2. Go to `File > Export...` and export the Kaishi deck using `Notes in Plain Text (.txt)`. Leave all other settings default.
-3. Delete the Kaishi deck.
-4. Select the deck you want to import Kaishi on top of, select `Browse`, click any card, press `ctrl + a`, and select `Notes > Change Note Type...` on the top left menu. Make sure all notes you selected are of the same note type or else `Notes > Change Note Type...` may not show up.
-5. Change to the `Kaishi 1.5k` note type. Make sure the `Word` field in the `New` column shows the field your deck uses for the word next to it.
-    If you don't intend to delete any cards from your current deck that are not in Kaishi, make sure your other fields are lined up to the correct places too. Otherwise you can use the defaults and click `Save`.
-6. Import the Kaishi .txt file exported in step 2.
-7. When importing, make sure the Notetype is set to `Kaishi 1.5k` and the Deck is set to the deck you want to import on top of. 
-  If you intend on deleting cards not in Kaishi, add the tag `Kaishi` in the `Tag all notes` option.
-8. Click `Import`.
-9. To delete cards not in Kaishi, select your deck, click `Browse`, select your deck in left menu, append ` -tag:Kaishi` to the search bar, select any card, press `ctrl + a`, on the top left menu and go to `Notes > Delete`.
+1. Kaishi'yi .apkg dosyasıyla normal şekilde içe aktarın.
+2. `Dosya > Dışa Aktar...` seçeneğine gidin ve Kaishi destesini `Düz Metin (.txt) Notları` kullanarak dışa aktarın. Diğer tüm ayarları varsayılan olarak bırakın.
+3. Kaishi destesini silin.
+4. Kaishi'yi içe aktarmak istediğiniz desteyi seçin, `Gözat`'ı seçin, herhangi bir kartı tıklayın, `ctrl + a` tuşlarına basın ve sol üst menüden `Notlar > Not Türünü Değiştir...`'i seçin. Seçtiğiniz tüm notların aynı not türüne ait olduğundan emin olun, aksi takdirde `Notlar > Not Türünü Değiştir...` seçeneği görünmeyebilir.
+5. `Kaishi 1.5k` not türüne geçin. `Yeni` sütunundaki `Kelime` alanının, destenizin yanındaki kelime için kullandığı alanı gösterdiğinden emin olun.
+  Mevcut destenizden Kaishi'de olmayan kartları silmek istemiyorsanız, diğer alanların da doğru yerlere hizalandığından emin olun. Aksi takdirde, varsayılanları kullanabilir ve `Kaydet`'i tıklayabilirsiniz.
+6. 2. adımda dışa aktarılan Kaishi .txt dosyasını içe aktarın.
+7. İçe aktarırken, Not Türü'nün `Kaishi 1.5k` olarak ve Destesi'nin içe aktarmak istediğiniz deste olarak ayarlandığından emin olun. 
+  Kaishi'de olmayan kartları silmek istiyorsanız, `Tüm notları etiketle` seçeneğine `Kaishi` etiketini ekleyin.
+8. “İçe Aktar”ı tıklayın.
+9. Kaishi'de olmayan kartları silmek için destenizi seçin, “Gözat”ı tıklayın, sol menüden destenizi seçin, arama çubuğuna “-tag:Kaishi” ekleyin, herhangi bir kartı seçin, sol üst menüden “ctrl + a” tuşlarına basın ve “Notlar > Sil”e gidin.
 
-**If you're importing on top of Core 2.3k, please see [this](https://github.com/Manhhao/anki.transfer-review-history).**
+**Core 2.3k üzerine içe aktarıyorsanız, lütfen [bunu](https://github.com/Manhhao/anki.transfer-review-history) inceleyin.**
 
-## I don't like the images!
+## Görüntüleri beğenmedim!
 
-That's fair. Finding 1500 consistent and free pictures to use for the deck was a tremendous challenge (thank you again for this [liarbeast](https://github.com/liarbeast)!). As a result, a bunch of pictures do not align perfectly with the sentence or the word. That's valid criticism, and if you would like to take the picture out, here's what you should do. Open up Cards...` after clicking on a Kaishi card in the browser. Look for the `Back` template. In it, you will find `{{Picture}}`. Simply take it out. Alternatively, just replace everything with the following:
+Haklısın. Kart destesi için kullanmak üzere 1500 adet tutarlı ve ücretsiz resim bulmak çok zordu (bunun için tekrar teşekkürler [liarbeast](https://github.com/liarbeast)!). Sonuç olarak, bir dizi resim cümle veya kelimeyle tam olarak uyuşmuyor. Bu geçerli bir eleştiri ve resmi çıkarmak isterseniz, yapmanız gerekenler şunlar. `Tarayıcıda bir Kaishi kartına tıkladıktan sonra Cards...`'ı açın. `Back` şablonunu bulun. İçinde `{{Picture}}`'yi göreceksiniz. Bunu çıkarmanız yeterlidir. Alternatif olarak, her şeyi aşağıdakiyle değiştirin:
 
 ```html
 <div lang="ja">
@@ -238,55 +237,55 @@ That's fair. Finding 1500 consistent and free pictures to use for the deck was a
 </div>
 ```
 
-## The genesis of the deck
+## Destenin doğuşu
 
-This deck has its origin in a discussion between Tyogin and myself in the [TMW discord server](https://learnjapanese.moe/join/). We were both lamenting the fact that the popular beginner decks at the time had annoying flaws. Beginners kept getting confused when using Core 2k and Tango due to various issues. Tango had some obscure words in it such as ナンプラー which is a Thai fish sauce and many people weren't really interested in all the basic phrases and country names taking up such a large amount of the deck. The deck's fields were formatted terribly which made it impossible to use the deck in a different way than was originally intended, which was sentence cards. Core 2k on the other hand was modular, but had multiple mistranslations, missing or unrelated pictures and some of the sentences weren't very useful, sometimes not even reflecting the meaning of the word used.
+Bu deste, Tyogin ve benim [TMW discord sunucusunda](https://learnjapanese.moe/join/) yaptığımız bir tartışmadan doğmuştur. İkimiz de o dönemde popüler olan başlangıç seviyesi destelerin can sıkıcı kusurları olduğunu hayıflanıyorduk. Yeni başlayanlar, çeşitli sorunlar nedeniyle Core 2k ve Tango'yu kullanırken sürekli kafaları karışıyordu. Tango'da, Tayland balık sosu olan ナンプラー gibi bazı anlaşılması zor kelimeler vardı ve birçok kişi, destenin büyük bir bölümünü kaplayan temel ifadeler ve ülke isimleriyle pek ilgilenmiyordu. Destenin alanları çok kötü biçimlendirilmişti, bu da desteyi asıl amaçlanan şekilde, yani cümle kartları olarak kullanmayı imkansız hale getiriyordu. Core 2k ise modülerdi, ancak birçok yanlış çeviri, eksik veya alakasız resimler içeriyordu ve bazı cümleler pek kullanışlı değildi, hatta bazen kullanılan kelimenin anlamını yansıtmıyordu.
 
-Both of these issues were annoying enough that we would get beginners asking questions about it every two weeks. Tyogin proposed we fix the issue ourselves and a small team was assembled to fix these issues. We mostly took data from Core2k, Core10k, Tango N4 and Tango N5. We then combined the data, sorted the words by frequency using various Yomichan/Yomitan frequency dictionaries and selected around 1500 words. We then fixed the translations for each word, chose the best sentence for each word and fixed the sentence if it needed fixing. We had to fix roughly 120 sentences out of the 1500 we chose. Following this, we obtained both pitch accent data and word audio for words that were missing proper audio from [AJT Japanese](https://ankiweb.net/shared/info/1344485230), and a team of two people (Karifurai and cindsa) verified the pitch accent data. They also added pitch accent notes for words that needed it. We then cropped silent parts in the audio and normalized the audio level between the various files. On top of that, we also produced furigana from AJT Japanese for the words and the sentences. After this, we designed a basic hint targeted sentences card CSS to be used on the default version of the deck. Finally, multiple people proofread the deck to make sure we had as few errors as possible.
+Bu iki sorun da o kadar can sıkıcıydı ki, her iki haftada bir yeni başlayanlar bu konuda sorular soruyordu. Tyogin, sorunu kendimiz çözmemizi önerdi ve bu sorunları gidermek için küçük bir ekip oluşturuldu. Çoğunlukla Core2k, Core10k, Tango N4 ve Tango N5'ten veri aldık. Ardından verileri birleştirdik, çeşitli Yomichan/Yomitan sıklık sözlüklerini kullanarak kelimeleri sıklıklarına göre sıraladık ve yaklaşık 1500 kelime seçtik. Daha sonra her kelimenin çevirisini düzelttik, her kelime için en uygun cümleyi seçtik ve gerekirse cümleyi düzelttik. Seçtiğimiz 1500 cümleden yaklaşık 120 cümleyi düzeltmek zorunda kaldık. Ardından, [AJT Japanese](https://ankiweb.net/shared/info/1344485230) sitesinden uygun ses kaydı bulunmayan kelimeler için hem ses tonu verilerini hem de kelime ses kayıtlarını elde ettik ve iki kişilik bir ekip (Karifurai ve cindsa) ses tonu verilerini doğruladı. Ayrıca, gerekli olan kelimeler için ton vurgu notları da eklediler. Ardından, ses kaydındaki sessiz kısımları kırptık ve çeşitli dosyalar arasındaki ses seviyesini normalleştirdik. Bunun üzerine, kelimeler ve cümleler için AJT Japanese'den furigana da ürettik. Bundan sonra, desteğin varsayılan sürümünde kullanılacak temel ipucu hedefli cümle kartı CSS'sini tasarladık. Son olarak, mümkün olduğunca az hata olması için desteği birden fazla kişi düzeltti.
 
-Kaishi, written 開始 means "start, beginning". We thought this fit properly so we decided on this name. Hopefully, this deck will be a wonderful start to your Japanese learning journey.
+Kaishi, 開始 yazılır ve “başlangıç, başlangıç” anlamına gelir. Bunun uygun olduğunu düşündük ve bu ismi seçtik. Umarız bu deste, Japonca öğrenme yolculuğunuz için harika bir başlangıç olur.
 
-## What do I do after this deck?
+## Bu deste bittikten sonra ne yapacağım?
 
-[Start mining](https://donkuri.github.io/learn-japanese/guide/#consuming-native-content) if you haven't already. See [this](https://github.com/donkuri/japanese-resources/?tab=readme-ov-file#mining) for a list of mining notetypes.
+Henüz başlamadıysanız [madenciliğe başlayın](https://donkuri.github.io/learn-japanese/guide/#consuming-native-content). Madencilik not türlerinin listesi için [buraya](https://github.com/donkuri/japanese-resources/?tab=readme-ov-file#mining) bakın.
 
-## Translation of the deck
+## Deste çevirisi
 
-If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in **[Russian](https://github.com/NeonGooRoo/KaishiRu)**, **[Indonesian](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamese](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukrainian](https://github.com/maksiksq/KaishiUa)**, **[Brazilian Portuguese](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[Spanish](https://github.com/Dogi5/Kaishi-ESP)**, **[Mandarin](https://github.com/maimemo/kaishi-zh-cn/)** and **[French](https://github.com/khmskhmskhms/kaishi-FR)**.
+Deck'i ana dilinize çevirmekle ilgileniyorsanız, lütfen [GitHub tracker](https://github.com/donkuri/Kaishi/issues) üzerinde bir konu açın. Sunum **[Rusça](https://github.com/NeonGooRoo/KaishiRu)**, **[Endonezce](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamca](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukraynaca](https://github.com/maksiksq/KaishiUa)**, **[Brezilya Portekizcesi](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[İspanyolca](https://github.com/Dogi5/Kaishi-ESP)**, **[Mandarin](https://github.com/maimemo/kaishi-zh-cn/)** ve **[Fransızca](https://github.com/khmskhmskhms/kaishi-FR)**.
 
-## Credits
+## Teşekkürler
 
-This deck was made with the help of these people:
+Bu deste şu kişilerin yardımıyla oluşturulmuştur:
 
-[栗](https://github.com/donkuri/) - main architect, all technical aspects, translations, proofreading
+[栗](https://github.com/donkuri/) - ana mimar, tüm teknik konular, çeviriler, düzeltmeler
 
-Tyogin - main architect, reordered the first 200 cards, changed the sentences, proofreading
+Tyogin - ana mimar, ilk 200 kartı yeniden sıraladı, cümleleri değiştirdi, düzeltmeler yaptı
 
-shoui - proofreading the entire deck, fixed translations
+shoui - tüm desteyi düzeltti, çevirileri düzeltti
 
-Julian - helped add notes and checked some sentence translations
+Julian - not eklemeye yardım etti ve bazı cümle çevirilerini kontrol etti
 
-karifurai - verified the pitch accent for the first 750 cards and added pitch notes
+karifurai - ilk 750 kartın ton vurgusunu doğruladı ve ton notları ekledi
 
-cindsa - verified the pitch accent for the last 750 cards and added pitch notes
+cindsa - son 750 kartın ton vurgusunu doğruladı ve ton notları ekledi
 
-[Kuuube](https://github.com/Kuuuube) - suggested the use of FFmpeg, wrote the transferring cards to Kaishi 1.5k section above
+[Kuuube](https://github.com/Kuuuube) - FFmpeg kullanımını önerdi, yukarıdaki Kaishi 1.5k bölümüne kartların aktarılmasını yazdı
 
-[stephenmk](https://github.com/stephenmk) - ran the Jmdict Furigana tool on Kaishi 1.5k to fix furigana, see v1.3.0
+[stephenmk](https://github.com/stephenmk) - Kaishi 1.5k üzerinde Jmdict Furigana aracını çalıştırarak furigana'yı düzeltti, bkz. v1.3.0
 
-[Kaanium](https://github.com/kaanium) - helped make a script to convert the deck to the writing version
+[Kaanium](https://github.com/kaanium) - desteyi yazma sürümüne dönüştürmek için bir komut dosyası oluşturulmasına yardımcı oldu
 
-[Lars](https://github.com/liarbeast) - added pictures from [irasutoya](https://www.irasutoya.com/)
+[Lars](https://github.com/liarbeast) - [irasutoya](https://www.irasutoya.com/) sitesinden resimler ekledi
 
-These tools were used in the creation of the deck:
+Bu araçlar desteğin oluşturulmasında kullanıldı:
 
-[AJT Japanese](https://github.com/Ajatt-Tools/Japanese) - pitch accent, furigana and some of the audio were generated using this add-on
+[AJT Japanese](https://github.com/Ajatt-Tools/Japanese) - ton vurgusu, furigana ve bazı sesler bu eklenti kullanılarak oluşturuldu
 
-[FFmpeg](https://ffmpeg.org/) - used to take out some silent parts in various audio files
+[FFmpeg](https://ffmpeg.org/) - çeşitli ses dosyalarındaki bazı sessiz kısımları çıkarmak için kullanıldı
 
-[Tenacity](https://tenacityaudio.org/) - used to edit clipping sounds in various audio files
+[Tenacity](https://tenacityaudio.org/) - çeşitli ses dosyalarındaki kesme seslerini düzenlemek için kullanıldı.
 
-We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself. The sentences themselves come from various Core decks found on Ankiweb.
+Ayrıca, TMW discord sunucusunun birçok üyesinden, desteğin adı da dahil olmak üzere çeşitli fikirler aldık. Cümleler ise Ankiweb'de bulunan çeşitli Core destelerinden alınmıştır.
 
 
 
