@@ -15,17 +15,17 @@ Gördüğünüz gibi, hem kelime hem de cümleler var, ancak kelime cümlede vur
 
 ### İçindekiler
 
-- [Desteyi nereden edinebilirim?](#where-do-i-get-the-deck)
-- [Bu desteyi nasıl kullanırım?](#how-do-i-use-this-deck)
-- [Diğer ilgili desteler](#other-related-decks)
-- [Deste için hangi seçenekler mevcuttur?](#what-options-are-available-for-the-deck)
-- [Görüntüleri beğenmedim!](#i-dont-like-the-images)
-- [Bu kelimenin seslendirmesi hatalı!](#the-audio-for-this-word-is-wrong)
-- [Kaishi'yi başka bir deste üzerine nasıl içe aktarılır](#how-to-import-kaishi-on-top-of-another-deck)
-- [Destenin doğuşu](#the-genesis-of-the-deck)
-- [Deste çevirisi](#translation-of-the-deck)
-- [Bu deste bittikten sonra ne yapacağım?](#what-do-i-do-after-this-deck)
-- [Teşekkürler](#credits)
+- [Desteyi nereden edinebilirim?](#desteyi-nereden-edinebilirim)
+- [Bu desteyi nasıl kullanırım?](#bu-desteyi-nasıl-kullanırım)
+- [Diğer ilgili desteler](#diğer-ilgili-desteler)
+- [Deste için hangi seçenekler mevcuttur?](#deste-için-hangi-seçenekler-mevcuttur)
+- [Görüntüleri beğenmedim!](#görüntüleri-beğenmedim)
+- [Bu kelimenin seslendirmesi hatalı!](#bu-kelimenin-seslendirmesi-hatalı)
+- [Kaishi'yi başka bir deste üzerine nasıl içe aktarılır](#kaishiyi-başka-bir-deste-üzerine-nasıl-içe-aktarılır)
+- [Destenin doğuşu](#destenin-doğuşu)
+- [Deste çevirisi](#deste-çevirisi)
+- [Bu deste bittikten sonra ne yapacağım?](#bu-deste-bittikten-sonra-ne-yapacağım)
+- [Teşekkürler](#teşekkürler)
 
 ## Desteyi nereden edinebilirim?
 
