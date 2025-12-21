@@ -29,7 +29,7 @@ Gördüğünüz gibi, hem kelime hem de cümleler var, ancak kelime cümlede vur
 
 ## Desteyi nereden edinebilirim?
 
-Kart destesini, bu GitHub'ın [sürümler] (https://github.com/donkuri/Kaishi/releases/) sayfasından veya [AnkiWeb] (https://ankiweb.net/shared/info/1196762551) adresinden indirebilirsiniz. Kart destesinin inceleme aşamasında olmaması gerekir. **Kart destesi Anki 2.1.50+ sürümlerinde desteklenmektedir.**
+Kart destesini, bu GitHub'ın [sürümler] (https://github.com/ED1343/kaishi-tr/releases/latest) sayfasından veya [AnkiWeb] (https://ankiweb.net/shared/info/1196762551) adresinden indirebilirsiniz. Kart destesinin inceleme aşamasında olmaması gerekir. **Kart destesi Anki 2.1.50+ sürümlerinde desteklenmektedir.**
 
 ## Bu desteyi nasıl kullanırım?]
 
