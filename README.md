@@ -251,7 +251,7 @@ Henüz başlamadıysanız [madenciliğe başlayın](https://donkuri.github.io/le
 
 ## Deste çevirisi
 
-Deck'i ana dilinize çevirmekle ilgileniyorsanız, lütfen [GitHub tracker](https://github.com/donkuri/Kaishi/issues) üzerinde bir konu açın. Sunum **[Rusça](https://github.com/NeonGooRoo/KaishiRu)**, **[Endonezce](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamca](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukraynaca](https://github.com/maksiksq/KaishiUa)**, **[Brezilya Portekizcesi](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[İspanyolca](https://github.com/Dogi5/Kaishi-ESP)**, **[Mandarin](https://github.com/maimemo/kaishi-zh-cn/)** ve **[Fransızca](https://github.com/khmskhmskhms/kaishi-FR)**.
+Desteyi ana dilinize çevirmekle ilgileniyorsanız, lütfen [GitHub tracker](https://github.com/donkuri/Kaishi/issues) üzerinde bir konu açın. Sunum **[Rusça](https://github.com/NeonGooRoo/KaishiRu)**, **[Endonezce](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamca](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukraynaca](https://github.com/maksiksq/KaishiUa)**, **[Brezilya Portekizcesi](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[İspanyolca](https://github.com/Dogi5/Kaishi-ESP)**, **[Mandarin](https://github.com/maimemo/kaishi-zh-cn/)** ve **[Fransızca](https://github.com/khmskhmskhms/kaishi-FR)**.
 
 ## Teşekkürler
 
