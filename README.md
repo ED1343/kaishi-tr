@@ -175,7 +175,7 @@ You can find the various styling options [here](https://docs.ankiweb.net/templat
 
 ## I don't like having sentences always on!
 
-Some people would prefer not always seeing the sentence in front. This is totally valid as some people end up only memorizing the sentences. The reason is here is to give you context as meaning is always found in context. If you would like, you can modify your front and styling template following [this issue](https://github.com/donkuri/kaishi/issues/131) to blur them. Thank you [Hit2Skill](https://github.com/Hit2Skill) for the idea!
+Some people would prefer not always seeing the sentence in front. This is totally valid as some people end up only memorizing the sentences. The reason is here is to give you context as meaning is always found in context. If you would like, you can modify your front and styling template following [the comment on this issue](https://github.com/donkuri/kaishi/issues/131#issuecomment-3968847411) to blur them. Thank you [Hit2Skill](https://github.com/Hit2Skill) for the idea!
 
 ## The audio for this word is wrong!
 
