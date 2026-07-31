@@ -53,7 +53,7 @@ En önemli seçenek, kartlarınıza tonlama aksanını dahil etmek isteyip istem
 <div lang="ja">
 {{furigana:Word Furigana}}
 
-<!-- This part enables pitch accent.
+<!-- Bu kısım ton vurgusunu etkinleştirir.
 
 {{#Pitch Accent}}
 	<br><div style='font-size: 24px'>{{Pitch Accent}}</div>
@@ -72,14 +72,14 @@ En önemli seçenek, kartlarınıza tonlama aksanını dahil etmek isteyip istem
 
 {{#Notes}}
 	<br>
-	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+	<div style="font-size: 20px; padding-top:12px">Not: {{Notes}}</div>
 {{/Notes}}
 
-<!-- This part enables pitch accent notes.
+<!-- Bu kısım ton vurgusu notlarını etkinleştirir.
 
 {{#Pitch Accent Notes}}
 <div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
-	<details><summary>Pitch Accent Notes</summary>
+	<details><summary>Ton Vurgusu Notları</summary>
 		<br>{{Pitch Accent Notes}}
 	</details>
 </div>
@@ -111,12 +111,12 @@ Tonlama aksanını etkinleştirmek için, aşağıdaki gibi yorumları temsil ed
 
 {{#Notes}}
 	<br>
-	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+	<div style="font-size: 20px; padding-top:12px">Not: {{Notes}}</div>
 {{/Notes}}
 
 {{#Pitch Accent Notes}}
 <div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
-	<details><summary>Pitch Accent Notes</summary>
+	<details><summary>Ton Vurgusu Notları</summary>
 		<br>{{Pitch Accent Notes}}
 	</details>
 </div>
@@ -153,7 +153,7 @@ Gördüğünüz gibi, elimizde sadece kelime ve cümle var. *Cümle* kartları i
 
 ```CSS
 .card {
- font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
+ font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", "Noto Sans CJK JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
  font-size: 44px;
  text-align: center;
 }
@@ -167,7 +167,12 @@ max-height: 250px;
 max-width: 50vw;
 }
 
-/* This part defines the bold color. */
+/* Furigana'nın seçilmesini engeller */
+ruby > rt {
+	user-select: none;
+}
+
+/* Bu kısım kalın yazının rengini tanımlar. */
 b{color: #5586cd}
 ```
 
@@ -207,12 +212,10 @@ Haklısın. Kart destesi için kullanılacak 1500 adet tutarlı ve telifsiz resi
 <div lang="ja">
 {{furigana:Word Furigana}}
 
-<!-- This part enables pitch accent.
-
+<!-- Bu kısım ton vurgusunu etkinleştirir.
 {{#Pitch Accent}}
 	<br><div style='font-size: 24px'>{{Pitch Accent}}</div>
 {{/Pitch Accent}} 
-
 -->
 
 <div style='font-size: 25px; padding-bottom:20px'>{{Word Meaning}}</div>
@@ -225,21 +228,18 @@ Haklısın. Kart destesi için kullanılacak 1500 adet tutarlı ve telifsiz resi
 
 {{#Notes}}
 	<br>
-	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+	<div style="font-size: 20px; padding-top:12px">Not: {{Notes}}</div>
 {{/Notes}}
 
-<!-- This part enables pitch accent notes.
-
+<!-- Bu kısım ton vurgusu notlarını etkinleştirir.
 {{#Pitch Accent Notes}}
 <div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
-	<details><summary>Pitch Accent Notes</summary>
+	<details><summary>Ton Vurgusu Notları</summary>
 		<br>{{Pitch Accent Notes}}
 	</details>
 </div>
 {{/Pitch Accent Notes}}
-
 -->
-
 </div>
 ```
 
