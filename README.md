@@ -167,11 +167,6 @@ max-height: 250px;
 max-width: 50vw;
 }
 
-/* Furigana'nın seçilmesini engeller */
-ruby > rt {
-	user-select: none;
-}
-
 /* Bu kısım kalın yazının rengini tanımlar. */
 b{color: #5586cd}
 ```
