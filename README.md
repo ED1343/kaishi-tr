@@ -8,7 +8,7 @@ Yeni başlayanlara temel Japonca kelime dağarcığını öğretmek için hazır
 
 Gördüğünüz gibi, hem kelime hem de cümleler mevcut; ancak kelime cümle içinde vurgulanmış durumda, bu da önemli bilgiyi hemen ayırt etmeyi kolaylaştırıyor. Kelime iyice öğrenildikten sonra, kelime ilk sırada yer aldığı için tekrar yapmak daha hızlı oluyor. İşte varsayılan kart destesinin arka yüzü:
 
-<img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Kaishi 1,5k kartının arka yüzü" style="width: 100%; height: auto">
+<img src="https://github.com/ED1343/kaishi-tr/blob/main/pics/kaishi-back-tr.png" alt="Kaishi 1,5k kartının arka yüzü" style="width: 100%; height: auto">
 
 Diğer çoğu Core tipi destenin aksine, burada furigana kelimenin okunuşunu gösterir ve anlamı hemen altında yer alır. Ardından kelimenin ve cümlenin ses kaydı dinleyebilirsiniz. İsterseniz, tonlama da ekleyebilirsiniz; bunun için aşağıya bakın. O kartla ilgili notlar varsa, bunlar aşağıda görüntülenir.
 
