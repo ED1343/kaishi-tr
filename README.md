@@ -1,4 +1,4 @@
-**BU SAYFADA BELIRTİLMEYEN DİĞER TÜM KART DESTELERİ, YAPAY ZEKA VEYA ÜCRETLİ DEĞİŞİKLİKLER DAHİL OLMAK ÜZERE, BENİMLE HERHANGİ BİR BAĞLANTISI BULUNMAMAKTADIR.**
+**BU SAYFADA BELİRTİLMEYEN DİĞER TÜM KART DESTELERİ, YAPAY ZEKA VEYA ÜCRETLİ DEĞİŞİKLİKLER DAHİL OLMAK ÜZERE, BENİMLE HERHANGİ BİR BAĞLANTISI BULUNMAMAKTADIR.**
 
 # Kaishi 1.5k
 
@@ -19,7 +19,7 @@ Diğer çoğu Core tipi destenin aksine, burada furigana kelimenin okunuşunu g�
 - [Desteyi nereden bulabilirim?](#desteyi-nereden-bulabilirim)
 - [Bu deste nasıl kullanılır?](#bu-deste-nasıl-kullanılır)
 - [Diğer ilgili desteler](#diğer-ilgili-desteler)
-- [Deste için hangi seçeneler mevcut?](#deste-için-hangi-seçeneler-mevcut)
+- [Deste için hangi seçenekler mevcut?](#deste-için-hangi-seçenekler-mevcut)
 - [Bu resimleri beğenmedim!](#bu-resimleri-beğenmedim)
 - [Cümlelerin sürekli açık kalmasından memnun değilim!](#cümlelerin-sürekli-açık-kalmasından-memnun-değilim)
 - [Bu kelimenin ses kaydı yanlış!](#bu-kelimenin-ses-kaydı-yanlış)
@@ -27,21 +27,21 @@ Diğer çoğu Core tipi destenin aksine, burada furigana kelimenin okunuşunu g�
 - [Destenin doğuşu](#destenin-doğuşu)
 - [Kart destesinin çevirisi](#kart-destesinin-çevirisi)
 - [Bu deste bittikten sonra ne yapmalıyım?](#bu-deste-bittikten-sonra-ne-yapmalıyım)
-- [Katkıda Bulunanlar](##katkıda-bulunanlar)
+- [Katkıda Bulunanlar](#katkıda-bulunanlar)
 
 ## Desteyi nereden bulabilirim?
 
-Bu GitHub hesabının [yayınlar](https://github.com/donkuri/Kaishi/releases/) sayfasından ya da [AnkiWeb](https://ankiweb.net/shared/info/1196762551) üzerinden, kart destesinin inceleme aşamasında olmaması koşuluyla kart destesini edinebilirsiniz. **Kart destesi, Anki 2.1.50 ve üzeri sürümlerde desteklenmektedir.**
+Bu GitHub hesabının [yayınlar](https://github.com/ED1343/kaishi-tr/releases) sayfasından ya da [AnkiWeb](https://ankiweb.net/shared/info/1196762551) üzerinden, kart destesinin inceleme aşamasında olmaması koşuluyla kart destesini edinebilirsiniz. **Kart destesi, Anki 2.1.50 ve üzeri sürümlerde desteklenmektedir.**
 
 ## Bu deste nasıl kullanılır?
 
-Kaishi'nin genel olarak Japonca öğrenme sürecine nasıl uyum sağladığına dair bir açıklama için [kılavuza] bakın(https://donkuri.github.io/learn-japanese/guide/).
+Kaishi'nin genel olarak Japonca öğrenme sürecine nasıl uyum sağladığına dair bir açıklama için [kılavuza](https://donkuri.github.io/learn-japanese/guide/) bakın.
 
 ## Diğer ilgili desteler
 
 ねむい, Kaishi 1.5k'yı temel alarak bir kök kart destesi hazırladı; bu destede yer alan her kanji kökünü, Kaishi'de o kökün bulunduğu ilk kelimeyle eşleştirdi. Ayrıca, Kaishi'nin ana içeriğinde bulunmayan birkaç kök daha da kapsıyor. **Kanji öğrenirken zorlanıyorsanız bu desteyi Kaishi ile birlikte kullanabilirsiniz**, çünkü ilerledikçe kanji köklerini tanıtarak bunları daha verimli bir şekilde ayrıştırmanıza yardımcı oluyor. Bu desteyi [AnkiWeb'de burada](https://ankiweb.net/shared/info/1722008986) bulabilirsiniz. Teşekkürler ねむい!
 
-## Deste için hangi seçeneler mevcut?
+## Deste için hangi seçenekler mevcut?
 
 Kartlarınızı değiştirmek için kullanabileceğiniz çeşitli seçenekler mevcuttur. Kartları değiştirmek için Kaishi destesini seçin, `Gözat` düğmesine tıklayın, desteden herhangi bir kartı seçin ve sağ üst köşedeki `Kartlar...` düğmesine tıklayın.
 
@@ -147,13 +147,13 @@ Görmek istediğiniz kart türünü tamamen değiştirebilirsiniz. İşte Kaishi
 
 Gördüğünüz gibi, elimizde sadece kelime ve cümle var. *Cümle* kartları istiyorsanız, `{{Word}}` kısmını kaldırmanız ya da yerine `Sentence` yazıp geri kalanını silmeniz yeterlidir. *Kelime* kartları istiyorsanız, `<div style=‘font-size: 20px;’>{{Sentence}}</div>` kısmını çıkarın. Bunun yerine *ses* kartları istiyorsanız, her şeyi çıkarın ve `{{Word Audio}}`, `{{Sentence Audio}}` veya her ikisini de istiyorsanız ikisini birden ekleyin.
 
-#### Yazı tiplerini, yazı tipi boyutunu veya diğer stil seçeneklerini değiştirme
+#### Yazı tiplerini, yazı tipi boyutunu veya diğer tasarlama seçeneklerini değiştirme
 
-İşte Kaishi 1.5k’nın `Stil Oluşturma` şablonu:
+İşte Kaishi 1.5k’nın `Tasarlama` şablonu:
 
 ```CSS
 .card {
- font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", "Noto Sans CJK JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
+ font-family: "Arial", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", "Noto Sans CJK JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
  font-size: 44px;
  text-align: center;
 }
@@ -172,6 +172,10 @@ b{color: #5586cd}
 ```
 
 Çeşitli stil seçeneklerini [burada](https://docs.ankiweb.net/templates/styling.html) bulabilirsiniz. Gördüğünüz gibi, Kaishi 1.5k stil sekmesinde doğrudan çok az seçenek kullanıyor. Farklı yazı tiplerini elde etmek için `font-family` seçeneğini, yazı tipi boyutunu değiştirmek için `font-size` seçeneğini ve metnin hizalamasını değiştirmek için `text-align` seçeneğini değiştirebilirsiniz; örneğin, metnin sola hizalanmasını istiyorsanız. Varsayılan olarak, Kaishi 1.5k **kalın** yazılan kelimeleri renklendirir. Bunu değiştirmek için yukarıda görebileceğiniz gibi `b{color: }` seçeneğini kullanabilirsiniz. Bunun yerine o rengi elde etmek için bir onaltılık kod veya `red` gibi bir renk adı girmeniz yeterlidir. Renk istemiyorsanız, `b{color: }` kısmının tamamını kaldırmanız yeterlidir.
+
+#### Fareyle üzerine gelindiğinde veya dokunulduğunda furigana gösterme
+
+Bu işlem, [bu başlıktaki](https://github.com/donkuri/kaishi/issues/154) adımlar takip edilerek yapılabilir.
 
 ## Cümlelerin sürekli açık kalmasından memnun değilim!
 
@@ -197,11 +201,11 @@ Eğer Core2k veya Tango N4-N5 (ya da benzeri bir deste) ile başlamışsanız ve
 8. `İçe Aktar`'a tıklayın.
 9. Kaishi'de olmayan kartları silmek için destenizi seçin, `Gözat`'a tıklayın, sol menüden destenizi seçin, arama çubuğuna ` -tag:Kaishi` ekleyin, herhangi bir kartı seçin, `ctrl + a` tuşlarına basın, sol üst menüden `Notlar > Sil`'e gidin.
 
-**Core 2.3k sürümünün üzerine aktarım yapıyorsanız, lütfen [buraya] bakın(https://github.com/Manhhao/anki.transfer-review-history).**
+**Core 2.3k sürümünün üzerine aktarım yapıyorsanız, lütfen [buraya](https://github.com/Manhhao/anki.transfer-review-history) bakın.**
 
 ## Bu resimleri beğenmedim!
 
-Haklısın. Kart destesi için kullanılacak 1500 adet tutarlı ve telifsiz resim bulmak gerçekten çok zordu (bunun için [liarbeast](https://github.com/liarbeast)‘e tekrar teşekkürler!). Sonuç olarak, bazı resimler cümle veya kelimeyle tam olarak uyuşmuyor. Bu geçerli bir eleştiri ve eğer resmi çıkarmak isterseniz, yapmanız gerekenler şunlar: Tarayıcıda bir Kaishi kartına tıkladıktan sonra `Kartlar.`'ı açın. `Geri` şablonunu bulun. İçinde `{{Picture}}`'yi göreceksiniz. Onu çıkarın. Alternatif olarak, her şeyi aşağıdakiyle değiştirin:
+Haklısın. Kart destesi için kullanılacak 1500 adet tutarlı ve telifsiz resim bulmak gerçekten çok zordu (bunun için [liarbeast](https://github.com/liarbeast)‘e tekrar teşekkürler!). Sonuç olarak, bazı resimler cümle veya kelimeyle tam olarak uyuşmuyor. Bu geçerli bir eleştiri ve eğer resmi çıkarmak isterseniz, yapmanız gerekenler şunlar: Tarayıcıda bir Kaishi kartına tıkladıktan sonra `Kartlar...`'ı açın. `Arka` şablonunu bulun. İçinde `{{Picture}}`'yi göreceksiniz. Onu çıkarın. Alternatif olarak, her şeyi aşağıdakiyle değiştirin:
 
 ```html
 <div lang="ja">
@@ -252,7 +256,7 @@ Henüz başlamadıysanız [madenciliğe başlayın](https://donkuri.github.io/le
 
 ## Kart destesinin çevirisi
 
-Bu kart destesini ana dilinize çevirmekle ilgileniyorsanız, lütfen [GitHub izleme sisteminde](https://github.com/donkuri/Kaishi/issues) bir sorun bildirimi oluşturun. Sunum, halihazırda **[Rusça](https://github.com/NeonGooRoo/KaishiRu)**, **[Endonezce](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamca](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukraynaca](https://github.com/maksiksq/KaishiUa)**, **[Brezilya Portekizcesi](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[İspanyolca](https://github.com/Dogi5/Kaishi-ESP)**, **[Çince](https://github.com/maimemo/kaishi-zh-cn/)** ve **[Fransızca](https://github.com/khmskhmskhms/kaishi-FR)**.
+Bu kart destesini ana dilinize çevirmekle ilgileniyorsanız, lütfen [GitHub izleme sisteminde](https://github.com/donkuri/Kaishi/issues) bir sorun bildirimi oluşturun. Deste halihazırda **[Rusça](https://github.com/NeonGooRoo/KaishiRu)**, **[Endonezce](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamca](https://github.com/duy103zxc/kaishi-vi/releases)**, **[Ukraynaca](https://github.com/maksiksq/KaishiUa)**, **[Brezilya Portekizcesi](https://github.com/nonsolvent/Kaishi-pt-BR)**, **[İspanyolca](https://github.com/Dogi5/Kaishi-ESP)**, **[Çince (Mandarin)](https://github.com/maimemo/kaishi-zh-cn/)**, **[Fransızca](https://github.com/khmskhmskhms/kaishi-FR)**, **[Arapça](https://github.com/kaihouguide/kaishi-arabic)** ve **[Almanca](https://github.com/Yukitoki97900/Kaishi-1.5K-German-Version)** dillerine çevrilmiştir.
 
 ## Katkıda Bulunanlar
 
